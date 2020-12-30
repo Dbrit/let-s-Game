@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 27)
+    (drawings 26)
     (tracks 283)
     (zones 0)
     (modules 63)
@@ -2689,9 +2689,6 @@
   )
   (gr_text "bottom\nup\n" (at 64.5 53) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
-  (gr_text "I2C\n" (at 128 60.75) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.25)))
   )
   (gr_text GND (at 128 53.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.25)))
