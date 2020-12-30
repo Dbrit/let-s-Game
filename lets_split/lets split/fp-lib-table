@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name alps)(type KiCad)(uri "D:/github/pcb-master/ICED - Left/prettylib")(options "")(descr ""))
+  (lib (name lets_split)(type KiCad)(uri ${KIPRJMOD}/lets_split.pretty)(options "")(descr ""))
+)
